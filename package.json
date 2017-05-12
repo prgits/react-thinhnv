@@ -44,9 +44,9 @@
       "env": {
         "NODE_PATH": "./src",
         "NODE_ENV": "production",
-        "APIHOST": "35.166.1.109",
+        "APIHOST": "cms.dacsanso1.net",
         "PORT": 3000,
-        "APIPORT": 8080
+        "APIPORT": 80
       }
     },
     "start-prod-api": {
@@ -63,8 +63,8 @@
         "NODE_PATH": "./src",
         "NODE_ENV": "development",
         "PORT": 3000,
-        "APIHOST": "35.166.1.109",
-        "APIPORT": 8080
+        "APIHOST": "cms.dacsanso1.net",
+        "APIPORT": 80
       }
     },
     "start-dev-api": {
@@ -81,8 +81,8 @@
         "UV_THREADPOOL_SIZE": 100,
         "NODE_PATH": "./src",
         "PORT": 3000,
-        "APIHOST": "35.166.1.109",
-        "APIPORT": 8080
+        "APIHOST": "cms.dacsanso1.net",
+        "APIPORT": 80
       }
     },
     "build": {
